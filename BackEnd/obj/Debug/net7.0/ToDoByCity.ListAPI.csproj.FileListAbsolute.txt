@@ -31,3 +31,16 @@
 /Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/obj/Debug/net7.0/ToDoByCity.ListAPI.pdb
 /Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/obj/Debug/net7.0/ToDoByCity.ListAPI.genruntimeconfig.cache
 /Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/obj/Debug/net7.0/ref/ToDoByCity.ListAPI.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/AutoMapper.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/MySqlConnector.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/Swashbuckle.AspNetCore.Annotations.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/Humanizer.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/rodrigocostadarosa/Desktop/Github/TodoByCity/BackEnd/bin/Debug/net7.0/System.CodeDom.dll

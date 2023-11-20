@@ -1,11 +1,20 @@
+using Microsoft.EntityFrameworkCore;
+using ToDoByCity.ListAPI.Model.Context;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+var connection = builder.Configuration.GetConnectionString("MySqlConnectionString");
+
+builder.Services.AddDbContext<MySqlContext>();
+
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+
 
 var app = builder.Build();
 
